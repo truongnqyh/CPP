@@ -30,7 +30,7 @@ int main() {
     
     increment_watched(my_movies,"XXX");
 
-	return 0;
+    return 0;
 }
 
 void increment_watched(Movies &movies, string name) {
